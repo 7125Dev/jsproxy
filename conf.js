@@ -15,7 +15,7 @@ jsproxy_config({
     'mysite': {
       label: '当前站点',
       lines: {
-        'google.rumiko.tk:443': 1,
+        'tech.rumiko.tk:443': 1,
       }
     }
   },
